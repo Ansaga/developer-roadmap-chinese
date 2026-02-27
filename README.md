@@ -1,5 +1,8 @@
 ![Web 開發人員路線圖 - 2021](https://i.imgur.com/4u3LK4j.png)
 
+> [!NOTE]
+> 此翻譯目前基於 **2021 年版本**。原著 [roadmap.sh](https://roadmap.sh) 已大幅更新（含 AI/ML 等全新路線圖），我們計畫持續跟進翻譯，歡迎透過 Issue 或 PR 協助更新！
+
 > 2021 年成為 Web 開發人員的路線圖
 
 [![原著路線圖官網](https://img.shields.io/badge/-%E5%8E%9F%E8%91%97%E8%B7%AF%E7%B7%9A%E5%9C%96%E5%AE%98%E7%B6%B2%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](http://roadmap.sh)
@@ -44,12 +47,6 @@
 [![Plurk 發噗](https://img.shields.io/badge/Plurk-發噗-fe574d.svg?style=flat-square&logo=plurk)](http://www.plurk.com/?status=https%3A//github.com/goodjack/developer-roadmap-chinese)
 [![LINE 分享](https://img.shields.io/badge/LINE-分享-04c755.svg?style=flat-square&logo=line)](https://social-plugins.line.me/lineit/share?text=%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E8%B7%AF%E7%B7%9A%E5%9C%96%20by%20%40kamranahmedse%0A%E5%8F%B0%E7%81%A3%E6%AD%A3%E9%AB%94%E4%B8%AD%E6%96%87%E7%BF%BB%E8%AD%AF%20by%20%40littlegoodjack&url=https%3A//github.com/goodjack/developer-roadmap-chinese)
 [![翻譯回饋 @littlegoodjack](https://img.shields.io/badge/翻譯回饋-@littlegoodjack-20a1f1.svg?style=flat-square&logo=twitter)](https://twitter.com/littlegoodjack)
-
-### 翻譯狀態
-
-| 原著最後更新 | 本翻譯最後更新 |
-| :--------: | :----------: |
-| [![原著最後更新](https://img.shields.io/github/last-commit/kamranahmedse/developer-roadmap.svg?style=for-the-badge)](https://github.com/kamranahmedse/developer-roadmap) | [![本翻譯最後更新](https://img.shields.io/github/last-commit/goodjack/developer-roadmap-chinese.svg?style=for-the-badge)](https://github.com/goodjack/developer-roadmap-chinese)
 
 ### 最近更新
 
@@ -154,19 +151,19 @@
 
 ## 前端 Frontend 路線圖
 
-[![下載原著 PDF](https://img.shields.io/badge/-%E4%B8%8B%E8%BC%89%E5%8E%9F%E8%91%97%20PDF-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://gum.co/frontend-roadmap) [![原著官網連結](https://img.shields.io/badge/-%E5%8E%9F%E8%91%97%E5%AE%98%E7%B6%B2%E9%80%A3%E7%B5%90%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://roadmap.sh/frontend)
+[![原著官網連結](https://img.shields.io/badge/-%E5%8E%9F%E8%91%97%E5%AE%98%E7%B6%B2%E9%80%A3%E7%B5%90%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://roadmap.sh/frontend)
 
 ![前端 Frontend 路線圖](./chinese-version/img/frontend.png)
 
 ## 後端 Back-end 路線圖
 
-[![下載原著 PDF](https://img.shields.io/badge/-%E4%B8%8B%E8%BC%89%E5%8E%9F%E8%91%97%20PDF-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://gum.co/backend-roadmap) [![原著官網連結](https://img.shields.io/badge/-%E5%8E%9F%E8%91%97%E5%AE%98%E7%B6%B2%E9%80%A3%E7%B5%90%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://roadmap.sh/backend)
+[![原著官網連結](https://img.shields.io/badge/-%E5%8E%9F%E8%91%97%E5%AE%98%E7%B6%B2%E9%80%A3%E7%B5%90%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://roadmap.sh/backend)
 
 ![後端 Back-end 路線圖](./chinese-version/img/backend.png)
 
 ## DevOps 路線圖
 
-[![下載原著 PDF](https://img.shields.io/badge/-%E4%B8%8B%E8%BC%89%E5%8E%9F%E8%91%97%20PDF-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://gum.co/devops-roadmap) [![原著官網連結](https://img.shields.io/badge/-%E5%8E%9F%E8%91%97%E5%AE%98%E7%B6%B2%E9%80%A3%E7%B5%90%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://roadmap.sh/devops)
+[![原著官網連結](https://img.shields.io/badge/-%E5%8E%9F%E8%91%97%E5%AE%98%E7%B6%B2%E9%80%A3%E7%B5%90%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://roadmap.sh/devops)
 
 ![DevOps 路線圖](./chinese-version/img/devops.png)
 
